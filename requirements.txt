@@ -1,0 +1,13 @@
+# Core libraries
+streamlit>=1.36.0
+pandas>=2.2.0
+numpy>=1.26.0
+joblib>=1.4.0
+scikit-learn>=1.4.0
+
+# Optional (but useful for stability in Spaces/Streamlit Cloud)
+altair>=5.0.0
+protobuf>=4.25.0
+
+# For better rendering and compatibility on Hugging Face Spaces
+watchdog>=4.0.0
